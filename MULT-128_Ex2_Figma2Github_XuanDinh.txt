@@ -1,0 +1,7 @@
+MULT-128
+Exercise 2: Webpage with Figma & GitHub
+Xuan Dinh 
+
+https://github.com/xdinh2015-blip/portfolio-test
+
+https://www.figma.com/design/KGZiVKDFnPVGxeLYfp4ecA/Portfolio-Test?node-id=0-1&p=f&m=dev
